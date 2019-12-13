@@ -76,3 +76,17 @@ address.pop(1)
 
 #shows help for the method
 help(list.reverse)
+
+#dictionary - contains multiple values - KEY/PAIR relationship:
+# python LISTS contain one value however dictionary contain two values
+pins = {"Mike":1234,"Joe":1111,"Jack":2222}
+
+# indexing on dictionary does not work
+pins[0]
+
+#But you can call individual information - it will gives you the value of the key
+pins["Mike"]
+
+#shows it as a int (since the value it returns is an int)
+type(pins["Mike"])
+
