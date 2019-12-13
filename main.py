@@ -95,3 +95,10 @@ pins.keys()
 
 # shows all the values...
 pins.values()
+
+###############################################
+
+#USER INPUT
+
+input("Enter your name: ")
+
