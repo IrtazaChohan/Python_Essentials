@@ -60,3 +60,19 @@ address[-2:-1]
 # shows all the methods that you can apply to the function
 dir(address)
 
+dir(str)
+dir(list)
+
+# now to apply any of the methods:
+address.append("USA")
+
+print(address)
+address
+
+address.remove("USA")
+
+# remove based on index (will show you what it removed):
+address.pop(1)
+
+#shows help for the method
+help(list.reverse)
