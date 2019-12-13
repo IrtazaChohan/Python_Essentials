@@ -102,3 +102,8 @@ pins.values()
 
 input("Enter your name: ")
 
+#comparing
+
+"1234" == 1234
+
+1234 == 1234
