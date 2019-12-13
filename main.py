@@ -90,3 +90,8 @@ pins["Mike"]
 #shows it as a int (since the value it returns is an int)
 type(pins["Mike"])
 
+#shows all the keys (not values!)
+pins.keys()
+
+# shows all the values...
+pins.values()
