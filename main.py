@@ -116,3 +116,12 @@ input("Enter your name: ")
 
 import datetime
 datetime.datetime.now()
+
+#########################
+
+# more on variables
+
+mynumber = 10
+mytext = "Hello"
+
+print(mynumber, mytext)
