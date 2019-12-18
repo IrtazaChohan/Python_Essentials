@@ -125,3 +125,20 @@ mynumber = 10
 mytext = "Hello"
 
 print(mynumber, mytext)
+
+#############################
+
+dir(list)
+
+dir(int)
+dir(str)
+dir(float)
+
+help(str.upper)
+
+"Hello".upper()
+"hello".title()
+
+myword = "hello"
+
+myword.upper()
