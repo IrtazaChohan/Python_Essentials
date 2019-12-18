@@ -39,3 +39,7 @@ list(range(1, 10, 2))
 [0, 7, 14, 21, 28, 35, 42, 49, 56, 63, 70, 77, 84, 91, 98]
 >>> list(range(0, 100, 8))
 [0, 8, 16, 24, 32, 40, 48, 56, 64, 72, 80, 88, 96]
+
+# Lists containing other lists are fine:
+
+rainfall = [10.1,10,"Hello",[79]]
