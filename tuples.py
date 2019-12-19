@@ -9,5 +9,9 @@ monday_temperatures = {1, 4, 5}
 
 list_temperatures = [1, 4, 5]
 
+# you can add to lists
+list_temperatures.append(6)
+
+print(list_temperatures)
 print(monday_temperatures)
 
