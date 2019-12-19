@@ -15,3 +15,5 @@ list_temperatures.append(6)
 print(list_temperatures)
 print(monday_temperatures)
 
+# you cannot append to tuples - you get an error (there is no append method):
+monday_temperatures.append(6)
