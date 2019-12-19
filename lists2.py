@@ -11,3 +11,5 @@ dir(__builtins__)
 mysum = (sum(student_grades)) / len(student_grades)
 
 print(mysum)
+
+dir(len)
