@@ -25,3 +25,7 @@ monday_temperatures.remove(4)
 
 # three tuples as lists inside of it
 color_codes = {(1,2,3),(4,5,6),(7,8,9)}
+
+day_temperatures = {"morning": (13.4,30.5,25.5),"noon": (27.8,38.9,33.5),"evening": (26.3,33.7,30.2)}
+
+type(day_temperatures)
