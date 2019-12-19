@@ -22,3 +22,6 @@ monday_temperatures.append(6)
 
 # similarly tuples do not have a remove method as well
 monday_temperatures.remove(4)
+
+# three tuples as lists inside of it
+color_codes = {(1,2,3),(4,5,6),(7,8,9)}
