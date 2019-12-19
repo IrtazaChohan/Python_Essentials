@@ -13,3 +13,7 @@ print((sum(student_grades.values())) / (len(student_grades)))
 dir(dict)
 
 dir(dict.values)
+
+#################################
+
+day_temperatures = {"morning": 7.5,"noon": 15.8,"afternoon": 9.3}
