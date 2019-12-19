@@ -7,3 +7,7 @@ dir(int)
 # shows the builtin functions of python..like print etc
 dir(__builtins__)
 
+# find the average using number of items in list
+mysum = (sum(student_grades)) / len(student_grades)
+
+print(mysum)
