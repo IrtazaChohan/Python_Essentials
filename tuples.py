@@ -5,8 +5,10 @@
 # basically - tuples you cannot change (add/remove etc) 
 # lists you can change...(add/remove etc)
 
+#this is a tuple
 monday_temperatures = {1, 4, 5}
 
+# this is a list
 list_temperatures = [1, 4, 5]
 
 # you can add to lists
@@ -17,3 +19,6 @@ print(monday_temperatures)
 
 # you cannot append to tuples - you get an error (there is no append method):
 monday_temperatures.append(6)
+
+# similarly tuples do not have a remove method as well
+monday_temperatures.remove(4)
